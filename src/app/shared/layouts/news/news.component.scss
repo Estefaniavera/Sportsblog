@@ -1,0 +1,50 @@
+/* Estilos generales */
+.container {
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .main-news img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .main-news h3 {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .main-news p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  /* Estilo para El Rincón Deportivo */
+  .sports-corner {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+  }
+  
+  .sports-corner h4 {
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+  }
+  
+  .sports-corner .list-group-item {
+    border: none;
+    padding: 5px 0;
+  }
+  
+  .sports-corner .list-group-item a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .sports-corner .list-group-item a:hover {
+    text-decoration: underline;
+  }
+  
